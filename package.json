@@ -1,0 +1,9 @@
+{
+  "name": "licensezero-postinstall",
+  "description": "postinstall script to mention License Zero",
+  "version": "0.0.0",
+  "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
+  "bin": "bin.js",
+  "license": "SEE LICENSE IN LICENSE",
+  "repository": "licensezero/licensezero-postinstall.js"
+}
