@@ -8,5 +8,11 @@
   "repository": "licensezero/licensezero-postinstall.js",
   "dependencies": {
     "word-wrap": "^1.2.3"
+  },
+  "devDependencies": {
+    "standard": "^11.0.1"
+  },
+  "scripts": {
+    "lint": "standard"
   }
 }
