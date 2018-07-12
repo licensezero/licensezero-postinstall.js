@@ -5,5 +5,8 @@
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
   "bin": "bin.js",
   "license": "SEE LICENSE IN LICENSE",
-  "repository": "licensezero/licensezero-postinstall.js"
+  "repository": "licensezero/licensezero-postinstall.js",
+  "dependencies": {
+    "word-wrap": "^1.2.3"
+  }
 }
