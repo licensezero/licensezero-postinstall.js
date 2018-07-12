@@ -1,4 +1,4 @@
-a postinstall npm script for [License Zero](https://licensezero.com) packages
+a postinstall npm script for [License Zero](https://licensezero.com) npm packages
 
 ```json
 {
@@ -6,4 +6,11 @@ a postinstall npm script for [License Zero](https://licensezero.com) packages
     "postinstall": "licensezero-postinstall"
   }
 }
+```
+
+To preview the output for your npm package:
+
+```bash
+cd your-npm-package
+npx licensezero-postinstall $PWD
 ```
